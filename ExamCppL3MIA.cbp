@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ExamCppL3MIA" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ExamCppL3MIA" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ExamCppL3MIA" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="D:/L3MIA-Cpp/ExamCppL3MIA/include" />
+		</Compiler>
+		<Linker>
+			<Add library="D:/L3MIA-Cpp/ExamCppL3MIA/pdcurses.a" />
+		</Linker>
+		<Unit filename="README.MD" />
+		<Unit filename="include/curses.h" />
+		<Unit filename="include/curspriv.h" />
+		<Unit filename="include/main-menu.hh" />
+		<Unit filename="include/main.hh" />
+		<Unit filename="include/matrix.hh" />
+		<Unit filename="include/panel.h" />
+		<Unit filename="include/test-item.hh" />
+		<Unit filename="include/test.hh">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="include/tools.hh" />
+		<Unit filename="include/view-matrix.hh" />
+		<Unit filename="src/main-menu.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/matrix.cpp" />
+		<Unit filename="src/test-item.cpp" />
+		<Unit filename="src/test.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="src/tools.cpp" />
+		<Unit filename="src/view-matrix.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

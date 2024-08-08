@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1720855393 source:d:\l3mia-cpp\examcppl3mia\src\main-menu.cpp
+	<iostream>
+	<curses.h>
+	<main-menu.hh>
+
+1567627682 d:\l3mia-cpp\examcppl3mia\include\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1720757658 d:\l3mia-cpp\examcppl3mia\include\main-menu.hh
+	<curses.h>
+	<vector>
+	<tools.hh>
+	<panel.h>
+
+1720774804 d:\l3mia-cpp\examcppl3mia\include\tools.hh
+
+1567627682 d:\l3mia-cpp\examcppl3mia\include\panel.h
+	<curses.h>
+
+1720880902 source:d:\l3mia-cpp\examcppl3mia\src\main.cpp
+	<curses.h>
+	<iostream>
+	<string>
+	<main-menu.hh>
+	<view-matrix.hh>
+	<tools.hh>
+	<panel.h>
+	<main.hh>
+	<matrix.hh>
+	<test.hh>
+	<test-item.hh>
+
+1720545347 d:\l3mia-cpp\examcppl3mia\include\view-matrix.hh
+	<iostream>
+	<vector>
+	<curses.h>
+	<panel.h>
+	<matrix.hh>
+
+1720760315 d:\l3mia-cpp\examcppl3mia\include\matrix.hh
+	<vector>
+
+1720869867 d:\l3mia-cpp\examcppl3mia\include\main.hh
+
+1720868331 source:d:\l3mia-cpp\examcppl3mia\src\matrix.cpp
+	<iostream>
+	<matrix.hh>
+	<string>
+
+1720775099 source:d:\l3mia-cpp\examcppl3mia\src\tools.cpp
+	<iostream>
+	<tools.hh>
+	<sstream>
+
+1720879304 source:d:\l3mia-cpp\examcppl3mia\src\view-matrix.cpp
+	<iostream>
+	<view-matrix.hh>
+	<matrix.hh>
+	<tools.hh>
+
+1720874518 source:d:\l3mia-cpp\examcppl3mia\src\test.cpp
+	<iostream>
+	<matrix.hh>
+	<test.hh>
+	<string>
+	<test-item.hh>
+
+1720872297 d:\l3mia-cpp\examcppl3mia\include\test.hh
+	<test-item.hh>
+
+1720871987 source:d:\l3mia-cpp\examcppl3mia\src\test-item.cpp
+	<test-item.hh>
+
+1720871881 d:\l3mia-cpp\examcppl3mia\include\test-item.hh
+	<string>
+
