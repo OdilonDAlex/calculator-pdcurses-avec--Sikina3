@@ -1,16 +1,8 @@
-# Projet calcule matricielle avec C++ et la bibliothèque pdcurses.
-
-## Description du projet
-    Ce projet permet d'effectuer des opérations matricielles en C++ en utilisant la bibliothèque pdcurses pour offrir une UX design intuitive et facile a utiliser.
+# Projet calcul matriciel avec C++ et la bibliothÃ¨que pdcurses.
 
 ## Membres du Binome N.
     - NOMENJANAHARY Odilon D'Alex
-    - Parcours: Mathematiques et informatique
-    - codage: 0012
-
     - ANDRIAMASINORO Iato Sikina Muella Anais
-    - Parcours: Academique en informatique
-    - codage: 0005
 
 ## Configuration pour la Compilation:
     * Ouvrir le projet sur Codeblock
